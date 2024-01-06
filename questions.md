@@ -22,7 +22,7 @@ The company famously associated with the phrase "Don't be evil" in its code of c
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+The English mathematician and writer often regarded as the first computer programmer is Ada Lovelace.
 ```
 
 Who is the "Turing machine" named after?

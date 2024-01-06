@@ -13,7 +13,7 @@ Es6 stands for ECMAScript 6. it is used to standadize Javascript.
 ```
 
 What company famously used the phrase "Don't be evil" in their code of conduct?
-
+Google. 
 ```
 
 ```

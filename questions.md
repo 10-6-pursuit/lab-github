@@ -29,4 +29,5 @@ Who is the "Turing machine" named after?
 
 ```
 
+The "Turing machine" is named after the British mathematician and logician Alan Turing.
 ```

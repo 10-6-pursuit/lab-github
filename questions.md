@@ -18,7 +18,7 @@ template literals, let and const for variable declarations, classes, and more
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
-
+The company that famously used the phrase "Don't be evil" in their code of conduct is Google. This phrase was a part of Google's corporate philosophy and was included in the company's Code of Conduct. It reflected the company's commitment to ethical behavior and doing what is considered morally right.
 ```
 
 What English mathematician and writer is often regarded as the first computer programmer?

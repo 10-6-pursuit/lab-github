@@ -28,5 +28,5 @@ Ada Lovelace is considered the first computer programmer. Even though she wrote 
 Who is the "Turing machine" named after?
 
 ```
-
+Alan Turing was a brilliant mathematician. Born in London in 1912, he studied at both Cambridge and Princeton universities. He was already working part-time for the British Government's Code and Cypher School before the Second World War broke out.
 ```

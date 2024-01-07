@@ -24,7 +24,7 @@ The company that famously used the phrase "Don't be evil" in their code of condu
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+The English mathematician and writer often regarded as the first computer programmer is Ada Lovelace. Ada Lovelace, born in 1815, is known for her work on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine. She wrote extensive notes and annotations to Luigi Federico Menabrea's article on the Analytical Engine, and in these notes, she described an algorithm for the engine to calculate Bernoulli numbers.
 ```
 
 Who is the "Turing machine" named after?

@@ -16,7 +16,7 @@ ES6 stands for ECMAScript 6. ECMAScript was created to standardize JavaScript, a
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
-
+"Don't be evil" is Google's former motto, and a phrase used in Google's corporate code of conduct. Following Google's corporate restructuring under the conglomerate Alphabet Inc. in October 2015, Alphabet took "Do the right thing" as its motto, also forming the opening of its corporate code of conduct.
 ```
 
 What English mathematician and writer is often regarded as the first computer programmer?

@@ -1,9 +1,9 @@
 # Questions
 
 What year did Brendan Eich create JavaScript?
-Javascript was invented by Brenden eich in 1995.
-```
 
+```
+Javascript was invented by Brenden eich in 1995.
 ```
 
 What does "ES6" stand for?

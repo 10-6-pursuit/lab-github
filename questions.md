@@ -18,9 +18,9 @@ A phrase used in Google's corporate code of conduct.
 
 What English mathematician and writer is often regarded as the first computer programmer?
 
-```
+Ada Lovelace is considered the first computer programmer.
 
-```
+Ada helped revolutionize the trajectory of the computer industry.
 
 Who is the "Turing machine" named after?
 

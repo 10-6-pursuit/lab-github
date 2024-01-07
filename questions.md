@@ -24,6 +24,6 @@ Ada helped revolutionize the trajectory of the computer industry.
 
 Who is the "Turing machine" named after?
 
-```
+ Alan Turing.
 
-```
+ Alan Turing was a brilliant mathematician.

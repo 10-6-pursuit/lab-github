@@ -27,5 +27,5 @@ Ada Lovelace
 Who is the "Turing machine" named after?
 
 ```
-
+The father of theoretical computer science and A.I., Alan Turing
 ```

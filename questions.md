@@ -7,8 +7,8 @@ Javascript was invented by Brenden eich in 1995.
 ```
 
 What does "ES6" stand for?
-Es6 stands for ECMAScript 6. it is used to standadize Javascript.
 ```
+Es6 stands for ECMAScript 6. it is used to standadize Javascript.
 
 ```
 

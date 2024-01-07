@@ -1,10 +1,7 @@
 # Questions
 
 What year did Brendan Eich create JavaScript?
-
-```
-
-```
+1995
 
 What does "ES6" stand for?
 

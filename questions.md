@@ -12,9 +12,9 @@ ECMAScript was created to standardize JavaScript.
 
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
-```
+Don't be evil" is Google's former motto. 
 
-```
+A phrase used in Google's corporate code of conduct.
 
 What English mathematician and writer is often regarded as the first computer programmer?
 

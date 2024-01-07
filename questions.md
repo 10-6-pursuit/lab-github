@@ -30,5 +30,5 @@ The English mathematician and writer often regarded as the first computer progra
 Who is the "Turing machine" named after?
 
 ```
-
+The "Turing machine" is named after Alan Turing, a pioneering English mathematician, logician, and computer scientist. Alan Turing is often considered one of the fathers of computer science. He introduced the concept of the Turing machine in his 1936 paper "On Computable Numbers, with an Application to the Entscheidungsproblem," where he described an abstract mathematical model of computation. The Turing machine is a theoretical device that formalizes the notion of algorithm or computation and played a crucial role in the development of theoretical computer science. 
 ```

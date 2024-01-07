@@ -3,6 +3,7 @@
 What year did Brendan Eich create JavaScript?
 
 ```
+Javascript was created in Dec 4, 1995.
 
 ```
 

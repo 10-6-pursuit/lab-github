@@ -31,4 +31,5 @@ Who is the "Turing machine" named after?
 ```
 
 The "Turing machine" is named after Alan Turing, a British mathematician, logician, and computer scientist. Alan Turing is widely considered to be the father of theoretical computer science and artificial intelligence. He introduced the concept of the Turing machine in 1936 as a theoretical model of computation, providing a foundation for understanding the limits and capabilities of computing devices. The Turing machine played a crucial role in the development of theoretical computer science and the understanding of algorithmic computation.
+
 ```

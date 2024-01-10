@@ -27,5 +27,5 @@ Ada Lovelace wrote the first algorithm for a machine in the 1800s and is conside
 Who is the "Turing machine" named after?
 
 ```
-
+The turing machine was created in 1936 and it was named after its creator Alan Turing.
 ```

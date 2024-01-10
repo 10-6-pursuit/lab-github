@@ -21,7 +21,7 @@ Don't be evil is a phrase used in Google's corporate code of conduct.
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+Ada Lovelace wrote the first algorithm for a machine in the 1800s and is considered the first computer programmer.
 ```
 
 Who is the "Turing machine" named after?

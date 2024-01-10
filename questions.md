@@ -10,7 +10,8 @@ JavaScript was invented by Brendan Eich in 1995. It was developed for Netscape 2
 What does "ES6" stand for?
 
 ```
-
+"ECMAScript 6. ECMAScript was created to standardize JavaScript, and ES6 is the 6th version of ECMAScript, it was published in 2015, and is also known as ECMAScript 2015. 
+ECMAScript is another official name for Javascript since the organization ECMA International creates the standard."
 ```
 
 What company famously used the phrase "Don't be evil" in their code of conduct?

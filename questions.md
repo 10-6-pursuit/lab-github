@@ -29,5 +29,6 @@ What English mathematician and writer is often regarded as the first computer pr
 Who is the "Turing machine" named after?
 
 ```
-
+"Alan Turing, an English mathematician, computer scientist, logician, cryptanalyst, philosopher and theoretical biologist, considered to be the father of theoretical computer science and artificial intelligence, was 
+highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine, which can be considered a model of a general-purpose computer."
 ```

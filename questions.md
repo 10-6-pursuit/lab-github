@@ -17,7 +17,7 @@ ECMAScript is another official name for Javascript since the organization ECMA I
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
-
+""Don't be evil" is Google's former motto, and a phrase used in Google's corporate code of conduct."
 ```
 
 What English mathematician and writer is often regarded as the first computer programmer?

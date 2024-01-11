@@ -9,7 +9,7 @@ Answer 1: Brendan Eich created JavaScript in 1995 while working at Netscape Comm
 What does "ES6" stand for?
 
 ```
-The acronym "ES6" denotes ECMAScript 6. This major update to JavaScript brings with it a number of new features as well as improvements to the language's functionality and grammar.
+Answer 2: The acronym "ES6" denotes ECMAScript 6. This major update to JavaScript brings with it a number of new features as well as improvements to the language's functionality and grammar.
 ```
 
 What company famously used the phrase "Don't be evil" in their code of conduct?

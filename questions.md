@@ -3,7 +3,7 @@
 What year did Brendan Eich create JavaScript?
 
 ```
-
+Brendan Eich created Javascript in 1995. It was created to be used as a scripting language for the use of the company's flagship browser, Netscape Navigator
 ```
 
 What does "ES6" stand for?

@@ -15,7 +15,7 @@ Answer 2: The acronym "ES6" denotes ECMAScript 6. This major update to JavaScrip
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
-The iconic line "Don't be evil" appeared in Google's code of conduct. It was a component of their way of thinking about moral conduct and making decisions.
+Answer 3: The iconic line "Don't be evil" appeared in Google's code of conduct. It was a component of their way of thinking about moral conduct and making decisions.
 ```
 
 What English mathematician and writer is often regarded as the first computer programmer?
